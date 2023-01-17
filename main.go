@@ -104,5 +104,5 @@ func main() {
 	createFiles(VideoDir, true)
 	createFiles(AudioDir, false)
 	elapsed := time.Since(startTime)
-	log.Printf("Time to complete: %s\n", elapsed)
+	log.Printf("Time to complete is: %s\n", elapsed)
 }
