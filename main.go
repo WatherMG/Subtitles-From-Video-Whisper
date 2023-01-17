@@ -18,7 +18,7 @@ const VideoExtension = ".mp4"
 const SubtitleExtension = ".srt"
 const videoPath = "D:\\Projects\\whisper\\video"
 const audioPath = "D:\\Projects\\whisper\\audio"
-const subtitlePath = "D:\\Projects\\whisper\\subtitles"
+const subtitlePath = "D:\\Projects\\whisper\\subtitles\\"
 
 var wg sync.WaitGroup
 
